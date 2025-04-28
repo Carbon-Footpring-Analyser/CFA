@@ -1,0 +1,6 @@
+train: C:\\Users\\caaka\\OneDrive\\Desktop\\CFA\\images\\train
+val: C:\\Users\\caaka\\OneDrive\\Desktop\\CFA\\images\\valid
+test: C:\\Users\\caaka\\OneDrive\\Desktop\\CFA\\images\\test
+
+nc: 6
+names: ['940 Kg CO2e', '6.8 Kg CO2e', '300 Kg CO2e', '70 Kg CO2e', '2 Kg CO2e', 'Others']
